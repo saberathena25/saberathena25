@@ -1,197 +1,103 @@
+👋 About Me
+I'm Omkar Muchlambe, a Computer Science Engineering student at SRM Institute of Science and Technology. I enjoy building software, experimenting with machine learning, and exploring how cloud and automation tools can support reliable applications.
 
-<!-- ========================================= -->
-<!-- OMKAR MUCHLAMBE | GITHUB PROFILE README -->
-<!-- ========================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=OMKAR%20MUCHLAMBE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Software+Development+Enthusiast;Building+AI-Powered+Applications;Exploring+Cloud+%26+DevOps;Turning+Ideas+Into+Working+Solutions" />
-</a>
-
-<br/>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ommuchlambe123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:+917498677148">
-<img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Omkar Muchlambe**, a Computer Science Engineering student at SRM Institute of Science and Technology, passionate about building practical software solutions and exploring emerging technologies.
-
-My interests span software engineering, artificial intelligence, machine learning, data analytics, and cloud technologies.
-
-I enjoy taking ideas from concept to implementation, working with different technology stacks, and developing applications that solve real-world problems.
-
-- 🎓 B.Tech in Computer Science Engineering
-- 💻 Interested in Software Development and AI/ML Engineering
-- 🤖 Experience building machine learning and AI-powered applications
-- ☁️ Exploring AWS, Docker, Kubernetes and CI/CD
-- 🔍 Interested in problem-solving, system development and automation
-- 🚀 Constantly learning, experimenting and building.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
+My project work spans AI-powered code understanding, image classification, data analysis, desktop applications, and database-driven systems. I value practical problem-solving, clear implementation, and continuous learning.
+- 🎓 B.Tech, Computer Science and Engineering — SRMIST
+- 💻 Interested in Software Engineering, AI/ML, and Data Analytics
+- 🤖 Building applications with Python, Java, machine learning, and APIs
+- ☁️ Learning and practising AWS, Docker, Kubernetes, and CI/CD
+- 🌱 Focused on strengthening problem-solving and engineering fundamentals
+🧰 Technical Skills
+Programming languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" alt="Java, Python, C, C++, JavaScript" />
 </p>
-
-### Web Development & Frameworks
-
+Web development and application technologies
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask" alt="HTML, CSS, JavaScript, Flask" />
 </p>
-
-### AI / ML & Data Science
-
+AI, machine learning and data
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy" alt="TensorFlow, PyTorch, scikit-learn, NumPy" />
 </p>
-
-### Cloud, DevOps & Infrastructure
-
+Cloud, DevOps and infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux" alt="AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux" />
 </p>
-
-### Databases & Development Tools
-
+Databases and developer tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" alt="MySQL, Git, GitHub, VS Code, Postman" />
 </p>
+Additional concepts: JDBC, REST APIs, DBMS, semantic search, vector-based retrieval, data visualisation, and CI/CD fundamentals.
+🚀 Selected Projects
+1. Codebase RAG Assistant
+Python · Retrieval-Augmented Generation · Semantic Search · Gemini
 
----
+An AI assistant that helps developers ask natural-language questions about a software codebase.
+- Built a retrieval pipeline using code parsing, semantic search, and vector-based retrieval to identify relevant code segments.
+- Integrated Google's Gemini model to generate context-aware explanations grounded in retrieved code.
+2. Leaf Sense
+Python · TensorFlow · MobileNetV2 · Flask · SQLite
 
-## 🚀 Featured Projects
+A plant disease identification application using deep learning and image classification.
+- Developed an image-classification workflow using the PlantVillage dataset, covering 38 plant disease classes.
+- Integrated model predictions into a Flask application with supporting disease information and SQLite storage.
+3. RecallIQ — Customer Re-engagement Interface
+JavaScript · REST APIs · CRM Concepts · Frontend Development
 
-### 1. Codebase RAG Assistant
-**AI | Retrieval-Augmented Generation | Gemini | Python**
+A CRM-oriented interface concept for identifying inactive customers and supporting personalised win-back workflows.
+- Developed the frontend experience for viewing inactive customer segments and re-engagement workflows.
+- Designed interface components around customer context and personalised outreach.
+4. University Management System
+Java · JDBC · MySQL · HTML · CSS · Bootstrap
 
-An AI-powered assistant designed to understand software codebases and answer natural-language questions about their implementation.
+A database-driven application for managing university and student information.
+- Implemented Java-to-MySQL connectivity using JDBC.
+- Developed authentication and CRUD functionality for managing records.
+5. Data Packet Analysis
+Python · Scapy · Wireshark · Pandas · Matplotlib
 
-- Developed a code retrieval pipeline using code parsing, semantic search and vector-based retrieval.
-- Integrated Google's Gemini model to generate context-aware explanations grounded in relevant code segments.
+A network traffic analysis project focused on inspecting captured packets and exploring communication patterns.
+- Used packet inspection tools and Python-based processing to examine network traffic and protocol information.
+- Applied data analysis and visualisation to explore packet-level patterns.
+6. Mental Health Assistant
+Python · Scikit-learn · TF-IDF · Multinomial Naive Bayes · Tkinter
 
-### 2. Leaf Sense
-**Deep Learning | Python | TensorFlow | MobileNetV2 | Flask**
+A desktop application that classifies user-entered symptom descriptions and displays related informational guidance.
+- Built a text-classification pipeline using TF-IDF, label encoding, and Multinomial Naive Bayes.
+- Developed a Tkinter interface to present predicted categories, severity information, and related guidance.
+7. POS N-gram Tagger
+Natural Language Processing · Python
 
-An intelligent plant disease identification application using deep learning and image classification.
+A part-of-speech tagging project exploring how n-gram language models can be used to identify grammatical tags from word sequences.
+8. Soil Moisture Detection
+Sensors · Python · Data Monitoring
 
-- Developed a deep learning model using the PlantVillage dataset to classify plant diseases across 38 categories.
-- Integrated model predictions into a Flask application with disease information and a SQLite database.
+A project focused on detecting soil moisture levels to support basic soil-condition monitoring.
+Project descriptions summarise the work at a high level. Add each repository URL to its project title once the corresponding public repository is ready.
 
-### 3. RecallIQ – Customer Re-engagement Agent
-**JavaScript | CRM | REST APIs | Frontend Development**
-
-A CRM-oriented customer re-engagement interface designed to identify inactive customers and support personalized win-back campaigns.
-
-- Developed a frontend interface for managing inactive customer segments and re-engagement workflows.
-- Designed user-facing components for personalized outreach and customer interaction management.
-
-### 4. University Management System
-**Java | JDBC | MySQL | HTML | CSS | Bootstrap**
-
-A database-driven university management application for organizing student and academic information.
-
-- Implemented database connectivity using JDBC and MySQL.
-- Developed authentication and CRUD operations for managing university records.
-
-### 5. Data Packet Analysis
-**Python | Scapy | Wireshark | Pandas | Matplotlib**
-
-A network traffic analysis project focused on examining captured packets and understanding network communication.
-
-- Used packet inspection and analysis to examine network traffic and protocol information.
-- Applied Python data processing and visualization techniques to explore packet-level patterns.
-
-### 6. Mental Health Assistant
-**Python | Machine Learning | Tkinter | Scikit-learn**
-
-A desktop-based machine learning application that analyzes entered symptoms and provides predicted disorder categories and associated information.
-
-- Implemented a classification pipeline using TF-IDF, Label Encoding and Multinomial Naive Bayes.
-- Built a Tkinter interface to display predictions, severity information and treatment-related guidance.
-
----
-
-## 📊 GitHub Statistics
-
+🏅 Certifications
+- Salesforce Agentforce Specialist
+- Alteryx Designer Core
+📊 GitHub Overview
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saberathena25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberathena25&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=saberathena25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>📈 Contribution Graph
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, exploring opportunities, collaborating on projects and learning new technologies.
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Omkar%20Muchlambe-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:ommuchlambe123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ommuchlambe123%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="tel:+917498677148">
-<img src="https://img.shields.io/badge/Phone-%2B91%207498677148-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br/><br/>
-
-### 💡 "Build. Learn. Innovate. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saberathena25&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</div>🤝 Connect With Me
+I'm interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in software development, AI/ML, and related engineering roles.
+<p align="center">
+  <a href="https://github.com/saberathena25">GitHub</a> •
+  <a href="https://www.linkedin.com/in/omkar-muchlambe">LinkedIn</a> •
+  <a href="mailto:ommuchlambe123@gmail.com">Email</a> •
+  <a href="tel:+917498677148">Phone</a>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saberathena25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p><div align="center">
+  <h3>“Build with purpose. Learn continuously. Improve every day.”</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=110&section=footer" width="100%" alt="Footer banner" />
 </div>
