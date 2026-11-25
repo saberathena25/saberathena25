@@ -116,6 +116,7 @@ I'm a Computer Science Engineering student at **SRM Institute of Science and Tec
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -125,13 +126,14 @@ I'm a Computer Science Engineering student at **SRM Institute of Science and Tec
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=saberathena25&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=saberathena25&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=saberathena25&style=flat-square&color=blueviolet" alt="Profile Views">
 
 </div>
+
 
 ## 🎓 Education
 
