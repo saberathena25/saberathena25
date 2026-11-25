@@ -70,9 +70,9 @@ I'm a Computer Science Engineering student at **SRM Institute of Science and Tec
 | Area | Skills |
 |---|---|
 | Programming | Python, Java, C, C++, JavaScript, SQL |
-| Development | Spring Boot, React, Flask, JDBC, REST APIs |
+| Development | React, FastAPI, Spring Boot, Flask, Tailwind CSS, LangChain, FAISS, Hugging Face, TensorFlow, Generative AI (RAG) |
 | AI & Data | Machine Learning, TensorFlow, Scikit-learn, NumPy, Pandas, RAG |
-| Databases & Cloud | MySQL, AWS |
+| Databases & Cloud | Docker, Kubernetes, CI/CD, AWS, AWS Lambda, PostgreSQL, MySQL, Git, GitHub, Alteryx |
 | Fundamentals | OOP, DBMS, DSA, Cloud Computing, Software Engineering |
 
 ---
