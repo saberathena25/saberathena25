@@ -88,35 +88,6 @@ I'm a Computer Science Engineering student at **SRM Institute of Science and Tec
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [Codebase RAG Assistant](https://github.com/saberathena25/Codebase-RAG-Assistant)
-`Python` `LangChain` `FAISS` `Hugging Face` `Gemini` `GitHub API`
-
-- Developed a Retrieval-Augmented Generation system that lets users ask natural-language questions about software repositories.
-- Implemented code parsing, embedding generation and FAISS-based semantic retrieval, then integrated Gemini to produce repository-grounded explanations.
-
-### 📈 [RecallIQ – Customer Re-Engagement Agent](https://github.com/saberathena25/RecallIQ---CRM-Agent-)
-`JavaScript` `REST APIs` `CRM`
-
-- Developed the frontend experience for a CRM concept focused on identifying inactive customers and supporting personalized re-engagement.
-- Designed customer-focused views and campaign workflows for a more structured win-back process.
-
-### 🎓 [University Management System](https://github.com/saberathena25/University-Management-System-Using-JAVA)
-`Java` `JDBC` `MySQL` `HTML` `CSS` `Bootstrap`
-
-- Built a university management application for organizing student, course, faculty, attendance and result information.
-- Implemented authentication and CRUD functionality with Java–MySQL database connectivity.
-
-### 🌿 [Leaf Sense](https://github.com/saberathena25/Leaf_Sense)
-`Python` `TensorFlow` `MobileNetV2` `Flask` `Pandas`
-
-- Built a deep-learning web application for classifying **38 plant disease categories** using the PlantVillage dataset and MobileNetV2.
-- Integrated image-based prediction and disease information into a Flask application.
-
----
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
